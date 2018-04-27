@@ -1,0 +1,24 @@
+{
+  "name": "escolasead",
+  "version": "1.0.0",
+  "description": "Projeto do site - Escolas EAD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviocode/projetoEAD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviocode/projetoEAD/issues"
+  },
+  "homepage": "https://github.com/flaviocode/projetoEAD#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
+}
