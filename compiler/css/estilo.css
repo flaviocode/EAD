@@ -1,0 +1,15 @@
+.barra-de-menu-principal nav {
+    background: #023859 !important;
+    border-radius: .7rem;
+    padding: .5rem;
+}
+
+.barra-de-menu-principal nav ul li a {
+    color: #FFF;
+    font-size: .85rem;
+    text-transform: uppercase;
+}
+
+.dropdown {
+    background: red;
+}
